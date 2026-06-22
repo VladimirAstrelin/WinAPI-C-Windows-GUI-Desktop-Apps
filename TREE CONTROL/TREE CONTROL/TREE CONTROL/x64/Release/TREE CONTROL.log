@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TREE CONTROL.vcxproj -> D:\EL\WINDOWS\APPS\TREE CONTROL\TREE CONTROL\x64\Release\TREE CONTROL.exe

@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CUSTOM CONTROLS.vcxproj -> D:\EL\WINDOWS\APPS\CUSTOM CONTROLS\CUSTOM CONTROLS\x64\Release\CUSTOM CONTROLS.exe

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CHECKBOX.vcxproj" Id="dd384119-2ac7-4dac-bf87-e7caef9a84f8" />
+</Solution>

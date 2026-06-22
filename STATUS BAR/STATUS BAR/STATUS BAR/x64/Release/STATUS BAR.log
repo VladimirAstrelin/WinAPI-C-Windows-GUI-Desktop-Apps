@@ -1,0 +1,8 @@
+﻿  dialog_proc.c
+  main.c
+  statusbar.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  STATUS BAR.vcxproj -> D:\EL\WINDOWS\APPS\STATUS BAR\STATUS BAR\x64\Release\STATUS BAR.exe

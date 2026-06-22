@@ -1,0 +1,7 @@
+﻿  dialog_proc.c
+  main.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DATE TIME PICKER.vcxproj -> D:\EL\WINDOWS\APPS\DATE TIME PICKER\DATE TIME PICKER\x64\Release\DATE TIME PICKER.exe

@@ -1,0 +1,7 @@
+﻿  dialog_proc.c
+  main.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SLIDER CONTROL.vcxproj -> D:\EL\WINDOWS\APPS\SLIDER CONTROL\SLIDER CONTROL\x64\Release\SLIDER CONTROL.exe
